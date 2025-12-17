@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Zhi Zhou
 
-<!--
-**zhizho-math/zhizho-math** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master's student in Mathematics at the University of Michigan.
+My academic interests include algebraic geometry and algebraic topology.
 
-Here are some ideas to get you started:
+## Research Interests
+- Algebraic geometry(bi-rational,module space, curve...)
+- Algebraic topology
+- Algebra
+- Manifolds
+- Differential Geometry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+- M.S. in Mathematics, University of Michigan
+- Coursework in algebra, geometry, and topology
+
+## Contact
+- Email: zhi.zhou@umich.edu
