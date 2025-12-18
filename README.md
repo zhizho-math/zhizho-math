@@ -12,7 +12,8 @@ My academic interests include algebraic geometry and algebraic topology.
 
 ## Background
 - M.S. in Mathematics, University of Michigan
+- Bachelor of Science with Honours in Mathematics, University of Liverpool
 - Coursework in algebra, geometry, and topology
 
 ## Contact
-- Email: zhi.zhou@umich.edu
+- Email: zhizho@umich.edu/zhizhomath@gmail.com
